@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Machine Learning 
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play badminton 
+- ⚡ Fun fact: I love to play badminton 
 
 ### Connect with me:
 
