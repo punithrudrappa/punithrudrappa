@@ -13,6 +13,8 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<a href="https://twitter.com/Punithrudrappa?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Punithrudrappa</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 <br />
 
