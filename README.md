@@ -5,7 +5,7 @@
 ## I'm a Student, Developer, and ML enthusiast!!
 
 
-- 🌱 I’m currently learning Machine Learning 
+
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play badminton 
 
