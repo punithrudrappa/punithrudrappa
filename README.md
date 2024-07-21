@@ -29,5 +29,7 @@ I thrive on staying at the forefront of ML and NLP advancements. My commitment t
 I'm always open to networking and exploring collaborative opportunities. Whether it's discussing the latest advancements in ML, sharing insights on NLP challenges, or exploring potential collaborations, I'd love to connect with like-minded professionals.
 
 
-<br />
-[linkedin]: https://linkedin.com/in/punithrudrappa
+[LinkedIn](https://linkedin.com/in/punithrudrappa)
+[Personal GIT](https://git.putinpi.com)
+[Mastodon](https://mas.to/@punithrudrappa)
+
