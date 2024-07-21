@@ -1,5 +1,5 @@
 ### Hi there, I'm Punith  👋 
-[![Twitter Follow](https://img.shields.io/twitter/url.svg?url=https%3A%2F%2Ftwitter.com/Punithrudrappa.svg?style=social&label=Follow%20%40Punithrudrappa)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fpublish.twitter.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5EPunithrudrappa&region=follow_link&screen_name=Punithrudrappa) [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 ### 🚀 Passionate ML Engineer | NLP Specialist | Expert in Large Language Models (LLMs)
 
@@ -28,9 +28,6 @@ I thrive on staying at the forefront of ML and NLP advancements. My commitment t
 ### 🔗 Let's Connect:
 I'm always open to networking and exploring collaborative opportunities. Whether it's discussing the latest advancements in ML, sharing insights on NLP challenges, or exploring potential collaborations, I'd love to connect with like-minded professionals.
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
-
-[twitter]: https://twitter.com/Punithrudrappa
 [linkedin]: https://linkedin.com/in/punithrudrappa
